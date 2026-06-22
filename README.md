@@ -16,7 +16,7 @@ The identified part name and confidence score appear beside the selected compone
 
 ![The identified front-right wheel assembly with a 92 percent confidence score](docs/images/step-3-result.jpg)
 
-## Example AI response
+## AI response
 
 ```json
 {
